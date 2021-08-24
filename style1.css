@@ -1,0 +1,21 @@
+body {
+    background-image: url('gambar-danau.jpg');
+    background-size: 100%;
+    z-index: 1;
+}
+
+.background {
+    background-color: white;
+    width: 50%;
+    height: 750px;
+    float: right;
+    position: relative;
+    z-index: -1;
+    margin-right: 10px;
+}
+
+.content {
+    text-align: right;
+    padding: 10px 10px;
+}
+
